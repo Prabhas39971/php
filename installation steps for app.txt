@@ -1,0 +1,9 @@
+1. create a new folder aned open with cmd after that create a new app using the following cmd
+  ng new appname  --no-standlone
+2. install bootstrap and add the peth in styles
+3. create component for your todo applcation
+4. link your component html files togeather
+5. run your application using ng serve--open
+6. create a new file that is todo.ts in your application directory
+7. create a new class having all the parameters
+8. import your Todo to your directory
